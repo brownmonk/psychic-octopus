@@ -1,0 +1,39 @@
+{
+  "name": "apotheosis",
+  "version": "1.0.0",
+  "description": "Apotheosis Engine / Doomsday Device",
+  "main": "apotheosisServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "*",
+    "crypto": "*",
+    "express": "*",
+    "mongoose": "*",
+    "socket.io": "*",
+    "bone.io": "*",
+    "colors": "*",
+    "mocha": "*",
+    "chai": "*",
+    "superagent": "~0.15.7",
+    "expect.js": "~0.2.0",
+    "socket.io-client": "~0.9.16",
+    "underscore": "~1.5.2",
+    "zombie": "~2.0.0-alpha24",
+    "pg": "~2.8.3",
+    "delivery": "0.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/altereagle/apotheosis.git"
+  },
+  "keywords": [
+    "Apotheosis"
+  ],
+  "author": "Apotheosis Entertainment",
+  "license": "Private",
+  "bugs": {
+    "url": "http://apotheosisentertainment.com"
+  }
+}
